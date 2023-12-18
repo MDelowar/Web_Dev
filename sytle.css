@@ -1,0 +1,149 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+}
+.header-area
+{
+    background: #222f3e;
+    height: 250px;
+}
+.header-area p
+{
+    color:#48dbfb;
+    font-size: 30px;
+    font-family:cursive;
+    text-align: center;
+    padding-top: 10px;
+}
+.header-area .logo
+{
+    height: 150px;
+    width: 150px;
+    margin: auto;
+}
+
+.header-area .logo img
+{
+    height: 100%;
+    width: 100%;
+    cursor: pointer;
+}
+.middle-area
+{
+    height:200px;
+    width: 100%;
+    background-color: #0a3d62;
+
+}
+.middle-left article
+{
+    width:60% ;
+    float: left;
+    margin: 10px;
+}
+.middle-right aside
+{
+    width: 30%;
+    float: left;
+}
+.middle-area
+{
+    content: "";
+    display: block;
+    clear: both;
+}
+.middle-left article h2
+{
+    color: blanchedalmond;
+    font-family: cursive;
+}
+.middle-left article h3
+{
+    color: blanchedalmond;
+    font-family: cursive;
+}
+.middle-left article p
+{
+    text-align: justify;
+    color: silver;
+}
+.middle-right aside
+{
+    margin: 55px 70px;
+}
+.middle-right aside h1
+{
+    color: blanchedalmond;
+    font-family: cursive;
+}
+.middle-right aside p
+{
+    text-align: justify;
+    color: silver;
+}
+.login
+{
+    height: 150px;
+    background-color: #0a3d62;
+    width: 100%;
+}
+.login p
+{
+    font-size:20px;
+    font-family: cursive;
+    color: silver;  
+    padding-left: 10px;
+}
+.table-area
+{
+    width: 31%;
+    margin: auto;
+}
+.table-area label
+{
+    font-size: 15px;
+    color: blanchedalmond;
+    font-family: cursive;
+}
+table span a
+{
+    color: blanchedalmond;
+    font-family: cursive;
+    text-decoration: none;
+}
+.greatings 
+{
+    height: 272px;
+    width: 100%;
+    background:#30336b;
+}
+.greatings p
+{
+    text-align: center;
+    padding-top: 60px;
+    font-family: cursive;
+    font-size: xx-large;
+    color: blanchedalmond;
+}
+.greatings span
+{
+    font-size: 25px;
+    text-align: center;
+    color: cornsilk;
+    padding-top: 10px;
+    font-family: Courier New;
+    display: block;
+}
+footer
+{
+    height: 50px;
+    background-color: #130f40;
+}
+footer p
+{
+    text-align: center;
+    padding-top: 10px;
+    font-size: x-large;
+    color: blanchedalmond;
+}
